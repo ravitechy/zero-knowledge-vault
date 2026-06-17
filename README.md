@@ -1,6 +1,8 @@
 # Zero-knowledge-vault
 Full stack application for zero knowledge vault management
 
+__The purpose of this application is to store the sensitive information like username, passwords, MPINs etc. for any number of sites/targets (gmail, hdfc bank etc.) safely without any leakage and without having to store the master password for them__
+
 # How to run the backend server
 1. Open the module zero-knowledge-vault-manager within this repo
 2. Run the file build-and-run-no-docker.bat on Windows OS or use the file build-and-run-no-docker.sh for Linux
