@@ -12,3 +12,4 @@ __The purpose of this application is to store the sensitive information like use
 # How to run the frontend UI
 1. Open the module vault-ui within this repo
 2. Open the terminal from this directory and run the command 'npm run dev -- --host'
+3. Open the browser and go to https://localhost:5173/
